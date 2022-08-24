@@ -37,6 +37,7 @@
 
 .nav_ac:hover {
     color: var(--text-color-2);
+    cursor: pointer;
 }
 
 .br-top,

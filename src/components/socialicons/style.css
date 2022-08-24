@@ -14,9 +14,13 @@
 }
 
 .stick_follow_icon svg {
-    width: 1.3em;
-    height: 1.3em;
-    fill: var(--text-color)
+    width: 2.4em;
+    height: 2.4em;
+    fill: var(--text-color);
+    margin: 7px
+}
+.stick_follow_icon svg:hover{
+    fill:rgb(223, 142, 12)
 }
 
 .stick_follow_icon p {
@@ -25,7 +29,7 @@
     width: 68px;
     height: 20px;
     color: var(--text-color);
-    font-size: 12px;
+    font-size: 15px;
     font-weight: 600;
     line-height: 1.2;
     white-space: nowrap;
@@ -40,6 +44,7 @@
     margin-bottom: 10px;
     transition: all .3s;
 }
+
 
 .stick_follow_icon p:after {
     top: 9px;

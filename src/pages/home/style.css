@@ -116,11 +116,13 @@ section {
 
 .ac_btn:hover {
     box-shadow: 8px 8px 0px var(--text-color), -8px -8px 0px var(--text-color);
+    background: rgb(223, 142, 12)
 }
 
 .ac_btn:hover .one {
     opacity: 1;
     transform: translate3d(0px, 0px, 0px);
+    
 }
 
 .ac_btn:hover .two {
@@ -170,8 +172,9 @@ section {
     color: var(--primary-color);
 }
 
+
 #button_h:hover {
-    color: var(--primary-color)
+    color: var(--primary-color);
 }
 
 .intro_sec .h_bg-image .block {

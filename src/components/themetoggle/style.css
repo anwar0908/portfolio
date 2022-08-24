@@ -7,9 +7,12 @@
     height: 50px;
     align-items: center;
     padding-left: 10px;
+    cursor: pointer;
+   
 }
 
 .theme_toggler svg {
-    width: 2em;
-    height: 2em;
+    width: 10em;
+    height: 10em;
+    cursor: pointer;
 }
