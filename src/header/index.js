@@ -55,12 +55,12 @@ const Headermain = () => {
 
             <a href={socialprofils.facebook}
             rel="noopener noreferrer" target="_blank">
-              Facebook
+              Facebook |
               </a>
 
             <a href={socialprofils.github}
             rel="noopener noreferrer" target="_blank">
-              Github
+              Github |
               </a>
 
             <a href={socialprofils.twitter}

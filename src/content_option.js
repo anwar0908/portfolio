@@ -24,7 +24,7 @@ const introdata = {
 
 const dataabout = {
     title: "About my-self",
-    aboutme: "Hi, my name is Taabish Anwar and i used to be a non-IT guy but my interest grew in development, so i started to learn java-script, and first I liked the back-end part interesting so I started with node-js and after that my interest also grew for front-end as well so now i am trying to become a MERN stack developer.",
+    aboutme: "Hi, my name is Taabish Anwar & earlier i used to be a non coder but my interest grew in development, so i started learning 'how to code' , and so i kick started my journey with the back-end part first, I liked the back-end part interesting & I started with node-js.  after few months my interest also grew for front-end part as well so now i am trying to write some code which stay's on the net as a part UI.",
 };
 const worktimeline = [{
         jobtitle: "Started my career as Digital-executive",
@@ -64,8 +64,8 @@ const skills = [{
         value: 55,
     },
     {
-        name: "React-Native",
-        value:30 ,
+        name: "React-N",
+        value:35,
     },
     {
         name: "Mongo_DB",
@@ -89,7 +89,7 @@ const skills = [{
     },
     {
         name: "My-Sql",
-        value: 30,
+        value: 35,
     },
     {
         name: "Caching with Redis",
@@ -111,11 +111,11 @@ const services = [{
     },
     {
         title: "Graphic Design",
-        description: "This is something which is required by every-one, wheather it is an invitation, flyer's or something else.",
+        description: "This is something which is required by every-one, wheather it can be an invitation, flyer's or may be something else.",
     },
     {
         title: "Video-Editing",
-        description: "I can add some good effect and transition to your raw video and you can use it for your social profils.",
+        description: "I can add some good effect and transition to your raw video and you can use it for your social profile's.",
     },
 ];
 
